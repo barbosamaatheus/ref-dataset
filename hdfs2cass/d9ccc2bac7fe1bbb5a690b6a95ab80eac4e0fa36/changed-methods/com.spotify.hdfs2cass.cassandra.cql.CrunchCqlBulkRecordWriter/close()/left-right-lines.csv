@@ -1,0 +1,15 @@
+com.spotify.hdfs2cass.cassandra.cql.CrunchCqlBulkRecordWriter,sink,161
+com.spotify.hdfs2cass.cassandra.cql.CrunchCqlBulkRecordWriter,sink,162
+com.spotify.hdfs2cass.cassandra.cql.CrunchCqlBulkRecordWriter,sink,163
+com.spotify.hdfs2cass.cassandra.cql.CrunchCqlBulkRecordWriter,sink,164
+com.spotify.hdfs2cass.cassandra.cql.CrunchCqlBulkRecordWriter,sink,165
+com.spotify.hdfs2cass.cassandra.cql.CrunchCqlBulkRecordWriter,sink,166
+com.spotify.hdfs2cass.cassandra.cql.CrunchCqlBulkRecordWriter,source,161
+com.spotify.hdfs2cass.cassandra.cql.CrunchCqlBulkRecordWriter,source,162
+com.spotify.hdfs2cass.cassandra.cql.CrunchCqlBulkRecordWriter,source,163
+com.spotify.hdfs2cass.cassandra.cql.CrunchCqlBulkRecordWriter,source,164
+com.spotify.hdfs2cass.cassandra.cql.CrunchCqlBulkRecordWriter,source,165
+com.spotify.hdfs2cass.cassandra.cql.CrunchCqlBulkRecordWriter,source,166
+com.spotify.hdfs2cass.cassandra.cql.CrunchCqlBulkRecordWriter,source,168
+com.spotify.hdfs2cass.cassandra.cql.CrunchCqlBulkRecordWriter,source,174
+com.spotify.hdfs2cass.cassandra.cql.CrunchCqlBulkRecordWriter,source,175
