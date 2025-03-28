@@ -1,0 +1,7 @@
+com.linkedin.camus.sweeper.mapreduce.AvroKeyCombineFileInputFormat,sink,39
+com.linkedin.camus.sweeper.mapreduce.AvroKeyCombineFileInputFormat,sink,44
+com.linkedin.camus.sweeper.mapreduce.AvroKeyCombineFileInputFormat,sink,45
+com.linkedin.camus.sweeper.mapreduce.AvroKeyCombineFileInputFormat,sink,46
+com.linkedin.camus.sweeper.mapreduce.AvroKeyCombineFileInputFormat,source,39
+com.linkedin.camus.sweeper.mapreduce.AvroKeyCombineFileInputFormat,source,44
+com.linkedin.camus.sweeper.mapreduce.AvroKeyCombineFileInputFormat,source,45
