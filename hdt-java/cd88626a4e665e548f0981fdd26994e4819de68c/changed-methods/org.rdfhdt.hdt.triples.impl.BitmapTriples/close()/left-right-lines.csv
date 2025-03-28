@@ -1,0 +1,11 @@
+org.rdfhdt.hdt.triples.impl.BitmapTriples,sink,800
+org.rdfhdt.hdt.triples.impl.BitmapTriples,sink,801
+org.rdfhdt.hdt.triples.impl.BitmapTriples,sink,802
+org.rdfhdt.hdt.triples.impl.BitmapTriples,sink,803
+org.rdfhdt.hdt.triples.impl.BitmapTriples,sink,804
+org.rdfhdt.hdt.triples.impl.BitmapTriples,sink,812
+org.rdfhdt.hdt.triples.impl.BitmapTriples,sink,813
+org.rdfhdt.hdt.triples.impl.BitmapTriples,sink,799
+org.rdfhdt.hdt.triples.impl.BitmapTriples,source,802
+org.rdfhdt.hdt.triples.impl.BitmapTriples,source,812
+org.rdfhdt.hdt.triples.impl.BitmapTriples,source,813
