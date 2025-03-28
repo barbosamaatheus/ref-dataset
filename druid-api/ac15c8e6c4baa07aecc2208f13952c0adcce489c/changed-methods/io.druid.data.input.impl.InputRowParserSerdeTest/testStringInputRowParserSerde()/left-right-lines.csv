@@ -1,0 +1,4 @@
+io.druid.data.input.impl.InputRowParserSerdeTest,sink,49
+io.druid.data.input.impl.InputRowParserSerdeTest,sink,50
+io.druid.data.input.impl.InputRowParserSerdeTest,sink,51
+io.druid.data.input.impl.InputRowParserSerdeTest,source,63
