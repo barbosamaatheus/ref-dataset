@@ -1,0 +1,3 @@
+com.kpelykh.docker.client.DockerClient,sink,66
+com.kpelykh.docker.client.DockerClient,sink,69
+com.kpelykh.docker.client.DockerClient,source,69
