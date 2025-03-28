@@ -1,0 +1,2 @@
+org.keedio.flume.source.SQLSource,source,93
+org.keedio.flume.source.SQLSource,sink,103
