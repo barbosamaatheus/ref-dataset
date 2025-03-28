@@ -1,0 +1,5 @@
+com.nuodb.migrator.jdbc.dialect.MSSQLServerDialect,source,62
+com.nuodb.migrator.jdbc.dialect.MSSQLServerDialect,sink,59
+com.nuodb.migrator.jdbc.dialect.MSSQLServerDialect,sink,60
+com.nuodb.migrator.jdbc.dialect.MSSQLServerDialect,sink,61
+com.nuodb.migrator.jdbc.dialect.MSSQLServerDialect,sink,62

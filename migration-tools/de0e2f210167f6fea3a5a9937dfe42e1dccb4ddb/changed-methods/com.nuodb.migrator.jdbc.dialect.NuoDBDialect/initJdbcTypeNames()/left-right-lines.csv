@@ -1,0 +1,15 @@
+com.nuodb.migrator.jdbc.dialect.NuoDBDialect,sink,149
+com.nuodb.migrator.jdbc.dialect.NuoDBDialect,sink,134
+com.nuodb.migrator.jdbc.dialect.NuoDBDialect,sink,135
+com.nuodb.migrator.jdbc.dialect.NuoDBDialect,sink,136
+com.nuodb.migrator.jdbc.dialect.NuoDBDialect,sink,137
+com.nuodb.migrator.jdbc.dialect.NuoDBDialect,sink,138
+com.nuodb.migrator.jdbc.dialect.NuoDBDialect,sink,124
+com.nuodb.migrator.jdbc.dialect.NuoDBDialect,sink,127
+com.nuodb.migrator.jdbc.dialect.NuoDBDialect,source,134
+com.nuodb.migrator.jdbc.dialect.NuoDBDialect,source,135
+com.nuodb.migrator.jdbc.dialect.NuoDBDialect,source,136
+com.nuodb.migrator.jdbc.dialect.NuoDBDialect,source,137
+com.nuodb.migrator.jdbc.dialect.NuoDBDialect,source,138
+com.nuodb.migrator.jdbc.dialect.NuoDBDialect,source,124
+com.nuodb.migrator.jdbc.dialect.NuoDBDialect,source,127

@@ -1,0 +1,3 @@
+com.nuodb.migrator.backup.Column,source,82
+com.nuodb.migrator.backup.Column,source,77
+com.nuodb.migrator.backup.Column,sink,82
