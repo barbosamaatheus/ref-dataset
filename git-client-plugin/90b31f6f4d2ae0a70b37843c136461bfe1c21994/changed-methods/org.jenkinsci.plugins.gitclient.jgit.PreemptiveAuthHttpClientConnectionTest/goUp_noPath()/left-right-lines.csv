@@ -1,0 +1,2 @@
+org.jenkinsci.plugins.gitclient.jgit.PreemptiveAuthHttpClientConnectionTest,sink,19
+org.jenkinsci.plugins.gitclient.jgit.PreemptiveAuthHttpClientConnectionTest,source,15
