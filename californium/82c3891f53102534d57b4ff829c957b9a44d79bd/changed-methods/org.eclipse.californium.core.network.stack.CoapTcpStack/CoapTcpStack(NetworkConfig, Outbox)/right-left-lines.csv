@@ -1,0 +1,7 @@
+org.eclipse.californium.core.network.stack.CoapTcpStack,source,99
+org.eclipse.californium.core.network.stack.CoapTcpStack,source,90
+org.eclipse.californium.core.network.stack.CoapTcpStack,source,91
+org.eclipse.californium.core.network.stack.CoapTcpStack,source,92
+org.eclipse.californium.core.network.stack.CoapTcpStack,source,93
+org.eclipse.californium.core.network.stack.CoapTcpStack,source,94
+org.eclipse.californium.core.network.stack.CoapTcpStack,sink,97

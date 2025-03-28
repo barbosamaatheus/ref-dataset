@@ -1,0 +1,4 @@
+quickfix.mina.initiator.AbstractSocketInitiator,sink,128
+quickfix.mina.initiator.AbstractSocketInitiator,sink,180
+quickfix.mina.initiator.AbstractSocketInitiator,source,130
+quickfix.mina.initiator.AbstractSocketInitiator,source,188

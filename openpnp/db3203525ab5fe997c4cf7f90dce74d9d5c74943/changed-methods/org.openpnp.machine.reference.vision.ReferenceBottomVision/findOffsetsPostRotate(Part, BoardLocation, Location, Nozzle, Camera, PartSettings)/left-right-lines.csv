@@ -1,0 +1,9 @@
+org.openpnp.machine.reference.vision.ReferenceBottomVision,sink,192
+org.openpnp.machine.reference.vision.ReferenceBottomVision,sink,210
+org.openpnp.machine.reference.vision.ReferenceBottomVision,sink,194
+org.openpnp.machine.reference.vision.ReferenceBottomVision,sink,213
+org.openpnp.machine.reference.vision.ReferenceBottomVision,sink,200
+org.openpnp.machine.reference.vision.ReferenceBottomVision,source,210
+org.openpnp.machine.reference.vision.ReferenceBottomVision,source,194
+org.openpnp.machine.reference.vision.ReferenceBottomVision,source,213
+org.openpnp.machine.reference.vision.ReferenceBottomVision,source,200

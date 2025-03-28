@@ -1,0 +1,3 @@
+net.sourceforge.pmd.LanguageVersionTest,source,24
+net.sourceforge.pmd.LanguageVersionTest,source,25
+net.sourceforge.pmd.LanguageVersionTest,sink,25

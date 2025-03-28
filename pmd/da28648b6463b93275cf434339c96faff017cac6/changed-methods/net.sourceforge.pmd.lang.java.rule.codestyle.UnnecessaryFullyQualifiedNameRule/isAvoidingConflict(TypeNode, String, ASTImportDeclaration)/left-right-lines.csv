@@ -1,0 +1,7 @@
+net.sourceforge.pmd.lang.java.rule.codestyle.UnnecessaryFullyQualifiedNameRule,sink,352
+net.sourceforge.pmd.lang.java.rule.codestyle.UnnecessaryFullyQualifiedNameRule,sink,354
+net.sourceforge.pmd.lang.java.rule.codestyle.UnnecessaryFullyQualifiedNameRule,sink,351
+net.sourceforge.pmd.lang.java.rule.codestyle.UnnecessaryFullyQualifiedNameRule,source,353
+net.sourceforge.pmd.lang.java.rule.codestyle.UnnecessaryFullyQualifiedNameRule,source,359
+net.sourceforge.pmd.lang.java.rule.codestyle.UnnecessaryFullyQualifiedNameRule,source,360
+net.sourceforge.pmd.lang.java.rule.codestyle.UnnecessaryFullyQualifiedNameRule,source,361

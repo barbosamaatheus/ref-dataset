@@ -1,0 +1,17 @@
+com.orientechnologies.orient.etl.transformer.OEdgeTransformer,sink,116
+com.orientechnologies.orient.etl.transformer.OEdgeTransformer,sink,123
+com.orientechnologies.orient.etl.transformer.OEdgeTransformer,sink,127
+com.orientechnologies.orient.etl.transformer.OEdgeTransformer,source,99
+com.orientechnologies.orient.etl.transformer.OEdgeTransformer,source,102
+com.orientechnologies.orient.etl.transformer.OEdgeTransformer,source,103
+com.orientechnologies.orient.etl.transformer.OEdgeTransformer,source,104
+com.orientechnologies.orient.etl.transformer.OEdgeTransformer,source,105
+com.orientechnologies.orient.etl.transformer.OEdgeTransformer,source,107
+com.orientechnologies.orient.etl.transformer.OEdgeTransformer,source,113
+com.orientechnologies.orient.etl.transformer.OEdgeTransformer,source,114
+com.orientechnologies.orient.etl.transformer.OEdgeTransformer,source,115
+com.orientechnologies.orient.etl.transformer.OEdgeTransformer,source,116
+com.orientechnologies.orient.etl.transformer.OEdgeTransformer,source,121
+com.orientechnologies.orient.etl.transformer.OEdgeTransformer,source,122
+com.orientechnologies.orient.etl.transformer.OEdgeTransformer,source,123
+com.orientechnologies.orient.etl.transformer.OEdgeTransformer,source,127

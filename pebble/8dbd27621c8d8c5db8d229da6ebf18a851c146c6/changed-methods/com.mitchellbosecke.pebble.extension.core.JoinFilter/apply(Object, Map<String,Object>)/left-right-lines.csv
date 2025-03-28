@@ -1,0 +1,15 @@
+com.mitchellbosecke.pebble.extension.core.JoinFilter,sink,64
+com.mitchellbosecke.pebble.extension.core.JoinFilter,sink,65
+com.mitchellbosecke.pebble.extension.core.JoinFilter,sink,66
+com.mitchellbosecke.pebble.extension.core.JoinFilter,sink,67
+com.mitchellbosecke.pebble.extension.core.JoinFilter,sink,68
+com.mitchellbosecke.pebble.extension.core.JoinFilter,sink,54
+com.mitchellbosecke.pebble.extension.core.JoinFilter,sink,55
+com.mitchellbosecke.pebble.extension.core.JoinFilter,sink,56
+com.mitchellbosecke.pebble.extension.core.JoinFilter,sink,57
+com.mitchellbosecke.pebble.extension.core.JoinFilter,sink,58
+com.mitchellbosecke.pebble.extension.core.JoinFilter,sink,60
+com.mitchellbosecke.pebble.extension.core.JoinFilter,sink,61
+com.mitchellbosecke.pebble.extension.core.JoinFilter,sink,63
+com.mitchellbosecke.pebble.extension.core.JoinFilter,source,65
+com.mitchellbosecke.pebble.extension.core.JoinFilter,source,61

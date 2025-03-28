@@ -1,0 +1,3 @@
+com.basho.riak.client.operations.FetchObject,sink,144
+com.basho.riak.client.operations.FetchObject,source,144
+com.basho.riak.client.operations.FetchObject,source,142

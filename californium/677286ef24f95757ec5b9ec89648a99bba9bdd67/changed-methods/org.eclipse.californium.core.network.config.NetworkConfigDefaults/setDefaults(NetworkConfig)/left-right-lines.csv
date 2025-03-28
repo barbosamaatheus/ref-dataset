@@ -1,0 +1,3 @@
+org.eclipse.californium.core.network.config.NetworkConfigDefaults,sink,182
+org.eclipse.californium.core.network.config.NetworkConfigDefaults,source,145
+org.eclipse.californium.core.network.config.NetworkConfigDefaults,source,146

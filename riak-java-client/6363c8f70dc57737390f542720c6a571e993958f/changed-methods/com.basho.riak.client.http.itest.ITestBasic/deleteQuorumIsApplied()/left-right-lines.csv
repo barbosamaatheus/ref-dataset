@@ -1,0 +1,3 @@
+com.basho.riak.client.http.itest.ITestBasic,sink,172
+com.basho.riak.client.http.itest.ITestBasic,sink,173
+com.basho.riak.client.http.itest.ITestBasic,source,172

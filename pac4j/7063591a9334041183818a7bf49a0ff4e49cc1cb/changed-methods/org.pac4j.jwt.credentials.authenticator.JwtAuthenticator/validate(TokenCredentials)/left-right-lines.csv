@@ -1,0 +1,9 @@
+org.pac4j.jwt.credentials.authenticator.JwtAuthenticator,sink,146
+org.pac4j.jwt.credentials.authenticator.JwtAuthenticator,sink,148
+org.pac4j.jwt.credentials.authenticator.JwtAuthenticator,source,130
+org.pac4j.jwt.credentials.authenticator.JwtAuthenticator,source,131
+org.pac4j.jwt.credentials.authenticator.JwtAuthenticator,source,156
+org.pac4j.jwt.credentials.authenticator.JwtAuthenticator,source,124
+org.pac4j.jwt.credentials.authenticator.JwtAuthenticator,source,158
+org.pac4j.jwt.credentials.authenticator.JwtAuthenticator,source,126
+org.pac4j.jwt.credentials.authenticator.JwtAuthenticator,source,127

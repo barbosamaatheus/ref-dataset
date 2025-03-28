@@ -1,0 +1,2 @@
+org.pac4j.jwt.credentials.authenticator.JwtAuthenticator,sink,177
+org.pac4j.jwt.credentials.authenticator.JwtAuthenticator,source,168

@@ -1,0 +1,3 @@
+com.orientechnologies.orient.etl.transformer.OCSVTransformer,source,130
+com.orientechnologies.orient.etl.transformer.OCSVTransformer,sink,112
+com.orientechnologies.orient.etl.transformer.OCSVTransformer,sink,130

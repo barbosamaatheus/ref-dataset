@@ -1,0 +1,7 @@
+com.aweber.flume.source.rabbitmq.Consumer,sink,177
+com.aweber.flume.source.rabbitmq.Consumer,sink,179
+com.aweber.flume.source.rabbitmq.Consumer,sink,180
+com.aweber.flume.source.rabbitmq.Consumer,sink,181
+com.aweber.flume.source.rabbitmq.Consumer,sink,187
+com.aweber.flume.source.rabbitmq.Consumer,source,181
+com.aweber.flume.source.rabbitmq.Consumer,source,202

@@ -1,0 +1,10 @@
+org.eclipse.californium.core.network.stack.BlockwiseLayer,sink,810
+org.eclipse.californium.core.network.stack.BlockwiseLayer,source,816
+org.eclipse.californium.core.network.stack.BlockwiseLayer,source,850
+org.eclipse.californium.core.network.stack.BlockwiseLayer,source,803
+org.eclipse.californium.core.network.stack.BlockwiseLayer,source,851
+org.eclipse.californium.core.network.stack.BlockwiseLayer,source,852
+org.eclipse.californium.core.network.stack.BlockwiseLayer,source,837
+org.eclipse.californium.core.network.stack.BlockwiseLayer,source,792
+org.eclipse.californium.core.network.stack.BlockwiseLayer,source,778
+org.eclipse.californium.core.network.stack.BlockwiseLayer,source,815

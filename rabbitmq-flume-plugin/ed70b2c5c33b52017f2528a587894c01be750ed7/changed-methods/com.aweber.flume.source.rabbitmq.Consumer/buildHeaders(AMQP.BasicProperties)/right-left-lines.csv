@@ -1,0 +1,17 @@
+com.aweber.flume.source.rabbitmq.Consumer,source,304
+com.aweber.flume.source.rabbitmq.Consumer,source,305
+com.aweber.flume.source.rabbitmq.Consumer,source,306
+com.aweber.flume.source.rabbitmq.Consumer,source,307
+com.aweber.flume.source.rabbitmq.Consumer,source,308
+com.aweber.flume.source.rabbitmq.Consumer,source,298
+com.aweber.flume.source.rabbitmq.Consumer,source,299
+com.aweber.flume.source.rabbitmq.Consumer,source,300
+com.aweber.flume.source.rabbitmq.Consumer,source,301
+com.aweber.flume.source.rabbitmq.Consumer,source,302
+com.aweber.flume.source.rabbitmq.Consumer,source,303
+com.aweber.flume.source.rabbitmq.Consumer,sink,304
+com.aweber.flume.source.rabbitmq.Consumer,sink,308
+com.aweber.flume.source.rabbitmq.Consumer,sink,298
+com.aweber.flume.source.rabbitmq.Consumer,sink,299
+com.aweber.flume.source.rabbitmq.Consumer,sink,300
+com.aweber.flume.source.rabbitmq.Consumer,sink,301
