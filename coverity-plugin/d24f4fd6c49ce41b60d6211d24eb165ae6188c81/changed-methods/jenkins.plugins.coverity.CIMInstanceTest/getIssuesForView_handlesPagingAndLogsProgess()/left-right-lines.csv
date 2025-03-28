@@ -1,0 +1,4 @@
+jenkins.plugins.coverity.CIMInstanceTest,sink,667
+jenkins.plugins.coverity.CIMInstanceTest,source,672
+jenkins.plugins.coverity.CIMInstanceTest,source,674
+jenkins.plugins.coverity.CIMInstanceTest,source,675

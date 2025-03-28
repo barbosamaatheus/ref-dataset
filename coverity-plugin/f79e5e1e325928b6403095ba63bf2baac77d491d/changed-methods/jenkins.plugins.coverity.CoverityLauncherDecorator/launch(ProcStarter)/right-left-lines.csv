@@ -1,0 +1,7 @@
+jenkins.plugins.coverity.CoverityLauncherDecorator,source,211
+jenkins.plugins.coverity.CoverityLauncherDecorator,source,180
+jenkins.plugins.coverity.CoverityLauncherDecorator,sink,209
+jenkins.plugins.coverity.CoverityLauncherDecorator,sink,210
+jenkins.plugins.coverity.CoverityLauncherDecorator,sink,211
+jenkins.plugins.coverity.CoverityLauncherDecorator,sink,205
+jenkins.plugins.coverity.CoverityLauncherDecorator,sink,158

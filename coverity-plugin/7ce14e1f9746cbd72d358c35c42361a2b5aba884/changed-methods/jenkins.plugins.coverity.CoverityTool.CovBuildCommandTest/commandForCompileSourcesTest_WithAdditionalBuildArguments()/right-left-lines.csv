@@ -1,0 +1,4 @@
+jenkins.plugins.coverity.CoverityTool.CovBuildCommandTest,source,61
+jenkins.plugins.coverity.CoverityTool.CovBuildCommandTest,source,62
+jenkins.plugins.coverity.CoverityTool.CovBuildCommandTest,source,63
+jenkins.plugins.coverity.CoverityTool.CovBuildCommandTest,sink,65
