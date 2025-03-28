@@ -1,0 +1,3 @@
+org.graylog2.log.GelfAppender,sink,130
+org.graylog2.log.GelfAppender,sink,131
+org.graylog2.log.GelfAppender,source,131

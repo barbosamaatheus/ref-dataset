@@ -1,0 +1,6 @@
+org.graylog2.GelfMessage,sink,83
+org.graylog2.GelfMessage,sink,87
+org.graylog2.GelfMessage,sink,88
+org.graylog2.GelfMessage,sink,89
+org.graylog2.GelfMessage,source,83
+org.graylog2.GelfMessage,source,89

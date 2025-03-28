@@ -1,0 +1,5 @@
+org.graylog2.GelfMessageTest,source,42
+org.graylog2.GelfMessageTest,source,43
+org.graylog2.GelfMessageTest,source,44
+org.graylog2.GelfMessageTest,sink,43
+org.graylog2.GelfMessageTest,sink,44
