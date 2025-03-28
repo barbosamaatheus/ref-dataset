@@ -1,0 +1,7 @@
+com.dbdeploy.integration.DirectToDbIntegrationTest,sink,65
+com.dbdeploy.integration.DirectToDbIntegrationTest,sink,66
+com.dbdeploy.integration.DirectToDbIntegrationTest,sink,75
+com.dbdeploy.integration.DirectToDbIntegrationTest,sink,61
+com.dbdeploy.integration.DirectToDbIntegrationTest,source,65
+com.dbdeploy.integration.DirectToDbIntegrationTest,source,66
+com.dbdeploy.integration.DirectToDbIntegrationTest,source,75
