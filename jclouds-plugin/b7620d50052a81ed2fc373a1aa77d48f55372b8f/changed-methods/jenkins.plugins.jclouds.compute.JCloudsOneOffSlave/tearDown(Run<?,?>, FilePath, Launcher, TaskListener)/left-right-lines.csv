@@ -1,0 +1,3 @@
+jenkins.plugins.jclouds.compute.JCloudsOneOffSlave,sink,82
+jenkins.plugins.jclouds.compute.JCloudsOneOffSlave,sink,73
+jenkins.plugins.jclouds.compute.JCloudsOneOffSlave,source,76

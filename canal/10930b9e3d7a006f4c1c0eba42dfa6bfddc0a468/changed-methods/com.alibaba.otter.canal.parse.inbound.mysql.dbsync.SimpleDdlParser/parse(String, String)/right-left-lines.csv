@@ -1,0 +1,10 @@
+com.alibaba.otter.canal.parse.inbound.mysql.dbsync.SimpleDdlParser,source,93
+com.alibaba.otter.canal.parse.inbound.mysql.dbsync.SimpleDdlParser,sink,80
+com.alibaba.otter.canal.parse.inbound.mysql.dbsync.SimpleDdlParser,sink,81
+com.alibaba.otter.canal.parse.inbound.mysql.dbsync.SimpleDdlParser,sink,82
+com.alibaba.otter.canal.parse.inbound.mysql.dbsync.SimpleDdlParser,sink,83
+com.alibaba.otter.canal.parse.inbound.mysql.dbsync.SimpleDdlParser,sink,84
+com.alibaba.otter.canal.parse.inbound.mysql.dbsync.SimpleDdlParser,sink,85
+com.alibaba.otter.canal.parse.inbound.mysql.dbsync.SimpleDdlParser,sink,86
+com.alibaba.otter.canal.parse.inbound.mysql.dbsync.SimpleDdlParser,sink,87
+com.alibaba.otter.canal.parse.inbound.mysql.dbsync.SimpleDdlParser,sink,79

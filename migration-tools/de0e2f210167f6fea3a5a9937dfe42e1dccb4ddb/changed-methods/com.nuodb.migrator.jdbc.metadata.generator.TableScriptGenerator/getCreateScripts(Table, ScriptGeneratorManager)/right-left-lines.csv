@@ -1,0 +1,5 @@
+com.nuodb.migrator.jdbc.metadata.generator.TableScriptGenerator,source,100
+com.nuodb.migrator.jdbc.metadata.generator.TableScriptGenerator,source,76
+com.nuodb.migrator.jdbc.metadata.generator.TableScriptGenerator,sink,100
+com.nuodb.migrator.jdbc.metadata.generator.TableScriptGenerator,sink,76
+com.nuodb.migrator.jdbc.metadata.generator.TableScriptGenerator,sink,95

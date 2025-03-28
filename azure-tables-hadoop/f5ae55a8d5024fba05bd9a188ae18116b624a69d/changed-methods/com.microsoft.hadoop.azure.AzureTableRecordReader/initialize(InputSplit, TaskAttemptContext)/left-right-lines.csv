@@ -1,0 +1,14 @@
+com.microsoft.hadoop.azure.AzureTableRecordReader,sink,40
+com.microsoft.hadoop.azure.AzureTableRecordReader,sink,41
+com.microsoft.hadoop.azure.AzureTableRecordReader,sink,42
+com.microsoft.hadoop.azure.AzureTableRecordReader,sink,43
+com.microsoft.hadoop.azure.AzureTableRecordReader,sink,45
+com.microsoft.hadoop.azure.AzureTableRecordReader,sink,47
+com.microsoft.hadoop.azure.AzureTableRecordReader,source,40
+com.microsoft.hadoop.azure.AzureTableRecordReader,source,41
+com.microsoft.hadoop.azure.AzureTableRecordReader,source,42
+com.microsoft.hadoop.azure.AzureTableRecordReader,source,43
+com.microsoft.hadoop.azure.AzureTableRecordReader,source,44
+com.microsoft.hadoop.azure.AzureTableRecordReader,source,45
+com.microsoft.hadoop.azure.AzureTableRecordReader,source,46
+com.microsoft.hadoop.azure.AzureTableRecordReader,source,47

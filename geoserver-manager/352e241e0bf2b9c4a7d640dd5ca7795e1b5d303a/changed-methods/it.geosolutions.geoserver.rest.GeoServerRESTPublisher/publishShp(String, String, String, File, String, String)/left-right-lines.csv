@@ -1,0 +1,3 @@
+it.geosolutions.geoserver.rest.GeoServerRESTPublisher,sink,222
+it.geosolutions.geoserver.rest.GeoServerRESTPublisher,source,222
+it.geosolutions.geoserver.rest.GeoServerRESTPublisher,source,223

@@ -1,0 +1,5 @@
+org.kaazing.k3po.driver.internal.test.utils.K3poTestRule,sink,69
+org.kaazing.k3po.driver.internal.test.utils.K3poTestRule,sink,70
+org.kaazing.k3po.driver.internal.test.utils.K3poTestRule,source,65
+org.kaazing.k3po.driver.internal.test.utils.K3poTestRule,source,59
+org.kaazing.k3po.driver.internal.test.utils.K3poTestRule,source,61

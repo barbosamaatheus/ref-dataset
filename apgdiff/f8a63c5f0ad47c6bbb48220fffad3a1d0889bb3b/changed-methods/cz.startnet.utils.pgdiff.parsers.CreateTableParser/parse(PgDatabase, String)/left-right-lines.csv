@@ -1,0 +1,9 @@
+cz.startnet.utils.pgdiff.parsers.CreateTableParser,sink,50
+cz.startnet.utils.pgdiff.parsers.CreateTableParser,sink,57
+cz.startnet.utils.pgdiff.parsers.CreateTableParser,sink,58
+cz.startnet.utils.pgdiff.parsers.CreateTableParser,sink,59
+cz.startnet.utils.pgdiff.parsers.CreateTableParser,sink,60
+cz.startnet.utils.pgdiff.parsers.CreateTableParser,sink,61
+cz.startnet.utils.pgdiff.parsers.CreateTableParser,sink,62
+cz.startnet.utils.pgdiff.parsers.CreateTableParser,source,48
+cz.startnet.utils.pgdiff.parsers.CreateTableParser,source,76

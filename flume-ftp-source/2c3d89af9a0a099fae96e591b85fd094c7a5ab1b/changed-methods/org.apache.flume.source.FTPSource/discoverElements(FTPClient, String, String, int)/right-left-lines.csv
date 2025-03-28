@@ -1,0 +1,3 @@
+org.apache.flume.source.FTPSource,source,194
+org.apache.flume.source.FTPSource,sink,179
+org.apache.flume.source.FTPSource,sink,174

@@ -1,0 +1,8 @@
+com.alibaba.otter.canal.parse.inbound.mysql.dbsync.LogEventConvert,source,272
+com.alibaba.otter.canal.parse.inbound.mysql.dbsync.LogEventConvert,source,271
+com.alibaba.otter.canal.parse.inbound.mysql.dbsync.LogEventConvert,sink,209
+com.alibaba.otter.canal.parse.inbound.mysql.dbsync.LogEventConvert,sink,275
+com.alibaba.otter.canal.parse.inbound.mysql.dbsync.LogEventConvert,sink,196
+com.alibaba.otter.canal.parse.inbound.mysql.dbsync.LogEventConvert,sink,277
+com.alibaba.otter.canal.parse.inbound.mysql.dbsync.LogEventConvert,sink,278
+com.alibaba.otter.canal.parse.inbound.mysql.dbsync.LogEventConvert,sink,218

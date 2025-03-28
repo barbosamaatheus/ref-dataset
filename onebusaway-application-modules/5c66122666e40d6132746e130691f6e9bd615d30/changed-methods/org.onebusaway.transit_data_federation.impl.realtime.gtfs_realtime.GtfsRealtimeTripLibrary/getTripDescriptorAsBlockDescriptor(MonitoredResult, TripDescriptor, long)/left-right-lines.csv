@@ -1,0 +1,12 @@
+org.onebusaway.transit_data_federation.impl.realtime.gtfs_realtime.GtfsRealtimeTripLibrary,sink,560
+org.onebusaway.transit_data_federation.impl.realtime.gtfs_realtime.GtfsRealtimeTripLibrary,sink,563
+org.onebusaway.transit_data_federation.impl.realtime.gtfs_realtime.GtfsRealtimeTripLibrary,sink,556
+org.onebusaway.transit_data_federation.impl.realtime.gtfs_realtime.GtfsRealtimeTripLibrary,source,560
+org.onebusaway.transit_data_federation.impl.realtime.gtfs_realtime.GtfsRealtimeTripLibrary,source,561
+org.onebusaway.transit_data_federation.impl.realtime.gtfs_realtime.GtfsRealtimeTripLibrary,source,563
+org.onebusaway.transit_data_federation.impl.realtime.gtfs_realtime.GtfsRealtimeTripLibrary,source,515
+org.onebusaway.transit_data_federation.impl.realtime.gtfs_realtime.GtfsRealtimeTripLibrary,source,532
+org.onebusaway.transit_data_federation.impl.realtime.gtfs_realtime.GtfsRealtimeTripLibrary,source,555
+org.onebusaway.transit_data_federation.impl.realtime.gtfs_realtime.GtfsRealtimeTripLibrary,source,507
+org.onebusaway.transit_data_federation.impl.realtime.gtfs_realtime.GtfsRealtimeTripLibrary,source,556
+org.onebusaway.transit_data_federation.impl.realtime.gtfs_realtime.GtfsRealtimeTripLibrary,source,493

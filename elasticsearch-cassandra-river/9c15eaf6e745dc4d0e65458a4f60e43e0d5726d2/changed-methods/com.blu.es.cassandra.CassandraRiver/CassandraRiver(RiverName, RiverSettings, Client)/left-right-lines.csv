@@ -1,0 +1,4 @@
+com.blu.es.cassandra.CassandraRiver,sink,67
+com.blu.es.cassandra.CassandraRiver,source,85
+com.blu.es.cassandra.CassandraRiver,source,72
+com.blu.es.cassandra.CassandraRiver,source,73

@@ -1,0 +1,15 @@
+org.asteriskjava.live.internal.AbstractLiveObject,sink,64
+org.asteriskjava.live.internal.AbstractLiveObject,sink,66
+org.asteriskjava.live.internal.AbstractLiveObject,sink,67
+org.asteriskjava.live.internal.AbstractLiveObject,sink,68
+org.asteriskjava.live.internal.AbstractLiveObject,sink,70
+org.asteriskjava.live.internal.AbstractLiveObject,sink,72
+org.asteriskjava.live.internal.AbstractLiveObject,sink,61
+org.asteriskjava.live.internal.AbstractLiveObject,sink,62
+org.asteriskjava.live.internal.AbstractLiveObject,sink,63
+org.asteriskjava.live.internal.AbstractLiveObject,source,66
+org.asteriskjava.live.internal.AbstractLiveObject,source,67
+org.asteriskjava.live.internal.AbstractLiveObject,source,68
+org.asteriskjava.live.internal.AbstractLiveObject,source,72
+org.asteriskjava.live.internal.AbstractLiveObject,source,61
+org.asteriskjava.live.internal.AbstractLiveObject,source,63

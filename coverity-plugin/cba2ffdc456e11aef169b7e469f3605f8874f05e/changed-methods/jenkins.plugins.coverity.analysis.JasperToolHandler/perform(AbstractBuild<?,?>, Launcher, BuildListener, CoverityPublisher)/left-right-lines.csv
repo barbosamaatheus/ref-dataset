@@ -1,0 +1,4 @@
+jenkins.plugins.coverity.analysis.JasperToolHandler,sink,448
+jenkins.plugins.coverity.analysis.JasperToolHandler,sink,450
+jenkins.plugins.coverity.analysis.JasperToolHandler,sink,451
+jenkins.plugins.coverity.analysis.JasperToolHandler,source,608

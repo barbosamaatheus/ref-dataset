@@ -1,0 +1,6 @@
+jenkins.plugins.coverity.CoverityTool.CoverityToolHandler,sink,248
+jenkins.plugins.coverity.CoverityTool.CoverityToolHandler,sink,73
+jenkins.plugins.coverity.CoverityTool.CoverityToolHandler,source,80
+jenkins.plugins.coverity.CoverityTool.CoverityToolHandler,source,89
+jenkins.plugins.coverity.CoverityTool.CoverityToolHandler,source,77
+jenkins.plugins.coverity.CoverityTool.CoverityToolHandler,source,79

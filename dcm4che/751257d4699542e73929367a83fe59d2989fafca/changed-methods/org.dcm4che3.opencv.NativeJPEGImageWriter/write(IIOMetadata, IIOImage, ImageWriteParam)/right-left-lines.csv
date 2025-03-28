@@ -1,0 +1,12 @@
+org.dcm4che3.opencv.NativeJPEGImageWriter,source,144
+org.dcm4che3.opencv.NativeJPEGImageWriter,source,134
+org.dcm4che3.opencv.NativeJPEGImageWriter,source,151
+org.dcm4che3.opencv.NativeJPEGImageWriter,source,135
+org.dcm4che3.opencv.NativeJPEGImageWriter,source,136
+org.dcm4che3.opencv.NativeJPEGImageWriter,source,137
+org.dcm4che3.opencv.NativeJPEGImageWriter,source,138
+org.dcm4che3.opencv.NativeJPEGImageWriter,sink,134
+org.dcm4che3.opencv.NativeJPEGImageWriter,sink,151
+org.dcm4che3.opencv.NativeJPEGImageWriter,sink,138
+org.dcm4che3.opencv.NativeJPEGImageWriter,sink,140
+org.dcm4che3.opencv.NativeJPEGImageWriter,sink,141

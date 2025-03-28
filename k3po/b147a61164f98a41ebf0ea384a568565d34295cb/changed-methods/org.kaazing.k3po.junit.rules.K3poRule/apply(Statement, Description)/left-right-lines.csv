@@ -1,0 +1,5 @@
+org.kaazing.k3po.junit.rules.K3poRule,sink,134
+org.kaazing.k3po.junit.rules.K3poRule,sink,135
+org.kaazing.k3po.junit.rules.K3poRule,source,118
+org.kaazing.k3po.junit.rules.K3poRule,source,120
+org.kaazing.k3po.junit.rules.K3poRule,source,124

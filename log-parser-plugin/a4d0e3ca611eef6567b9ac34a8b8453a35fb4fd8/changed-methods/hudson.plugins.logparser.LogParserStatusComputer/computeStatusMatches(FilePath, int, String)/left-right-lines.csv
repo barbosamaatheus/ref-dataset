@@ -1,0 +1,4 @@
+hudson.plugins.logparser.LogParserStatusComputer,sink,120
+hudson.plugins.logparser.LogParserStatusComputer,sink,78
+hudson.plugins.logparser.LogParserStatusComputer,source,84
+hudson.plugins.logparser.LogParserStatusComputer,source,70

@@ -1,0 +1,4 @@
+org.jgrapht.generate.HyperCubeGraphGenerator,sink,60
+org.jgrapht.generate.HyperCubeGraphGenerator,source,64
+org.jgrapht.generate.HyperCubeGraphGenerator,source,66
+org.jgrapht.generate.HyperCubeGraphGenerator,source,68

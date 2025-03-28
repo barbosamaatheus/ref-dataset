@@ -1,0 +1,4 @@
+org.keedio.flume.source.ftp.source.Source,sink,295
+org.keedio.flume.source.ftp.source.Source,sink,315
+org.keedio.flume.source.ftp.source.Source,source,292
+org.keedio.flume.source.ftp.source.Source,source,310

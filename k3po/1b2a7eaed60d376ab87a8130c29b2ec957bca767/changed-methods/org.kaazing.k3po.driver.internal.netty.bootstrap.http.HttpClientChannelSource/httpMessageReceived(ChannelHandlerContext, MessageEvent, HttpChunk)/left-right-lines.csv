@@ -1,0 +1,6 @@
+org.kaazing.k3po.driver.internal.netty.bootstrap.http.HttpClientChannelSource,sink,129
+org.kaazing.k3po.driver.internal.netty.bootstrap.http.HttpClientChannelSource,sink,130
+org.kaazing.k3po.driver.internal.netty.bootstrap.http.HttpClientChannelSource,source,121
+org.kaazing.k3po.driver.internal.netty.bootstrap.http.HttpClientChannelSource,source,122
+org.kaazing.k3po.driver.internal.netty.bootstrap.http.HttpClientChannelSource,source,123
+org.kaazing.k3po.driver.internal.netty.bootstrap.http.HttpClientChannelSource,source,124

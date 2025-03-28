@@ -1,0 +1,3 @@
+io.moquette.spi.impl.ProtocolProcessor,sink,740
+io.moquette.spi.impl.ProtocolProcessor,source,720
+io.moquette.spi.impl.ProtocolProcessor,source,723

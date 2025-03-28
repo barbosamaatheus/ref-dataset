@@ -1,0 +1,4 @@
+hudson.plugins.logparser.LogParserParser,sink,364
+hudson.plugins.logparser.LogParserParser,source,352
+hudson.plugins.logparser.LogParserParser,source,357
+hudson.plugins.logparser.LogParserParser,source,351

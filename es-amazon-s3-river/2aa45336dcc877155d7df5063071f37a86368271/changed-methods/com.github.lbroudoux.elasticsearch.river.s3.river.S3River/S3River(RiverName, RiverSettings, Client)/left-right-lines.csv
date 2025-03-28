@@ -1,0 +1,5 @@
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,sink,113
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,sink,103
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,source,89
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,source,90
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,source,159

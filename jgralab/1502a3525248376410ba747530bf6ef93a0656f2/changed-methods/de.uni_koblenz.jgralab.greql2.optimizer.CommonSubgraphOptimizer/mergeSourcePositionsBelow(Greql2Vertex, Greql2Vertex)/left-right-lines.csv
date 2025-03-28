@@ -1,0 +1,9 @@
+de.uni_koblenz.jgralab.greql2.optimizer.CommonSubgraphOptimizer,sink,274
+de.uni_koblenz.jgralab.greql2.optimizer.CommonSubgraphOptimizer,sink,276
+de.uni_koblenz.jgralab.greql2.optimizer.CommonSubgraphOptimizer,sink,277
+de.uni_koblenz.jgralab.greql2.optimizer.CommonSubgraphOptimizer,sink,278
+de.uni_koblenz.jgralab.greql2.optimizer.CommonSubgraphOptimizer,sink,271
+de.uni_koblenz.jgralab.greql2.optimizer.CommonSubgraphOptimizer,source,274
+de.uni_koblenz.jgralab.greql2.optimizer.CommonSubgraphOptimizer,source,277
+de.uni_koblenz.jgralab.greql2.optimizer.CommonSubgraphOptimizer,source,278
+de.uni_koblenz.jgralab.greql2.optimizer.CommonSubgraphOptimizer,source,271

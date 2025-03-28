@@ -1,0 +1,11 @@
+org.iban4j.bban.BbanStructure,sink,160
+org.iban4j.bban.BbanStructure,sink,155
+org.iban4j.bban.BbanStructure,sink,156
+org.iban4j.bban.BbanStructure,sink,157
+org.iban4j.bban.BbanStructure,sink,158
+org.iban4j.bban.BbanStructure,sink,159
+org.iban4j.bban.BbanStructure,source,176
+org.iban4j.bban.BbanStructure,source,178
+org.iban4j.bban.BbanStructure,source,179
+org.iban4j.bban.BbanStructure,source,180
+org.iban4j.bban.BbanStructure,source,156
