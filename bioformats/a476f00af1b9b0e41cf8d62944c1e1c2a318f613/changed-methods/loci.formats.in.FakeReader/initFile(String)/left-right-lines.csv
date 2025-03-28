@@ -1,0 +1,9 @@
+loci.formats.in.FakeReader,sink,721
+loci.formats.in.FakeReader,sink,623
+loci.formats.in.FakeReader,source,720
+loci.formats.in.FakeReader,source,721
+loci.formats.in.FakeReader,source,722
+loci.formats.in.FakeReader,source,723
+loci.formats.in.FakeReader,source,725
+loci.formats.in.FakeReader,source,726
+loci.formats.in.FakeReader,source,719
