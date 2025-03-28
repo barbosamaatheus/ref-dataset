@@ -1,0 +1,6 @@
+org.apache.camel.component.ironmq.IronMQConsumer,sink,99
+org.apache.camel.component.ironmq.IronMQConsumer,sink,101
+org.apache.camel.component.ironmq.IronMQConsumer,sink,117
+org.apache.camel.component.ironmq.IronMQConsumer,sink,102
+org.apache.camel.component.ironmq.IronMQConsumer,sink,105
+org.apache.camel.component.ironmq.IronMQConsumer,source,102
