@@ -1,0 +1,9 @@
+org.sonar.dependencycheck.DependencyCheckPlugin,sink,66
+org.sonar.dependencycheck.DependencyCheckPlugin,sink,54
+org.sonar.dependencycheck.DependencyCheckPlugin,sink,73
+org.sonar.dependencycheck.DependencyCheckPlugin,sink,60
+org.sonar.dependencycheck.DependencyCheckPlugin,source,74
+org.sonar.dependencycheck.DependencyCheckPlugin,source,75
+org.sonar.dependencycheck.DependencyCheckPlugin,source,76
+org.sonar.dependencycheck.DependencyCheckPlugin,source,78
+org.sonar.dependencycheck.DependencyCheckPlugin,source,79
