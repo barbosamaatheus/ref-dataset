@@ -1,0 +1,4 @@
+hudson.plugins.emailext.ExtendedEmailPublisherDescriptor,sink,315
+hudson.plugins.emailext.ExtendedEmailPublisherDescriptor,sink,316
+hudson.plugins.emailext.ExtendedEmailPublisherDescriptor,sink,317
+hudson.plugins.emailext.ExtendedEmailPublisherDescriptor,source,286

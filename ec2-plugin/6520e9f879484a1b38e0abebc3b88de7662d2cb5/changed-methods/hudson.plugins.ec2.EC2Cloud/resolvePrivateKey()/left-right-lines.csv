@@ -1,0 +1,8 @@
+hudson.plugins.ec2.EC2Cloud,sink,214
+hudson.plugins.ec2.EC2Cloud,sink,215
+hudson.plugins.ec2.EC2Cloud,sink,216
+hudson.plugins.ec2.EC2Cloud,source,208
+hudson.plugins.ec2.EC2Cloud,source,209
+hudson.plugins.ec2.EC2Cloud,source,210
+hudson.plugins.ec2.EC2Cloud,source,211
+hudson.plugins.ec2.EC2Cloud,source,207

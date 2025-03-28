@@ -1,0 +1,2 @@
+hudson.plugins.ec2.UnixData,sink,120
+hudson.plugins.ec2.UnixData,source,118

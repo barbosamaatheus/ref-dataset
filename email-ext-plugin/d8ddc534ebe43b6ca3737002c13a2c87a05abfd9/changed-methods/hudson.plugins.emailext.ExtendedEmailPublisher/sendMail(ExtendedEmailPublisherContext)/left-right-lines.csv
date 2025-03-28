@@ -1,0 +1,14 @@
+hudson.plugins.emailext.ExtendedEmailPublisher,sink,512
+hudson.plugins.emailext.ExtendedEmailPublisher,sink,520
+hudson.plugins.emailext.ExtendedEmailPublisher,sink,527
+hudson.plugins.emailext.ExtendedEmailPublisher,sink,528
+hudson.plugins.emailext.ExtendedEmailPublisher,sink,529
+hudson.plugins.emailext.ExtendedEmailPublisher,sink,530
+hudson.plugins.emailext.ExtendedEmailPublisher,sink,531
+hudson.plugins.emailext.ExtendedEmailPublisher,sink,532
+hudson.plugins.emailext.ExtendedEmailPublisher,sink,533
+hudson.plugins.emailext.ExtendedEmailPublisher,sink,534
+hudson.plugins.emailext.ExtendedEmailPublisher,sink,535
+hudson.plugins.emailext.ExtendedEmailPublisher,sink,536
+hudson.plugins.emailext.ExtendedEmailPublisher,sink,537
+hudson.plugins.emailext.ExtendedEmailPublisher,source,587
