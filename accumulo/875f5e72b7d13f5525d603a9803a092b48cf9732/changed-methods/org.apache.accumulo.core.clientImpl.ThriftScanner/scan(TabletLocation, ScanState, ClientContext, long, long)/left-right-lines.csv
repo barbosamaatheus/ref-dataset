@@ -1,0 +1,10 @@
+org.apache.accumulo.core.clientImpl.ThriftScanner,sink,625
+org.apache.accumulo.core.clientImpl.ThriftScanner,sink,563
+org.apache.accumulo.core.clientImpl.ThriftScanner,sink,614
+org.apache.accumulo.core.clientImpl.ThriftScanner,sink,566
+org.apache.accumulo.core.clientImpl.ThriftScanner,sink,567
+org.apache.accumulo.core.clientImpl.ThriftScanner,sink,619
+org.apache.accumulo.core.clientImpl.ThriftScanner,sink,604
+org.apache.accumulo.core.clientImpl.ThriftScanner,sink,573
+org.apache.accumulo.core.clientImpl.ThriftScanner,sink,638
+org.apache.accumulo.core.clientImpl.ThriftScanner,source,578

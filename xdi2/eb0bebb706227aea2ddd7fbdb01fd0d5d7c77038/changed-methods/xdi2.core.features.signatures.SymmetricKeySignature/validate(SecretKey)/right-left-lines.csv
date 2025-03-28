@@ -1,0 +1,5 @@
+xdi2.core.features.signatures.SymmetricKeySignature,source,128
+xdi2.core.features.signatures.SymmetricKeySignature,source,136
+xdi2.core.features.signatures.SymmetricKeySignature,source,137
+xdi2.core.features.signatures.SymmetricKeySignature,sink,124
+xdi2.core.features.signatures.SymmetricKeySignature,sink,127

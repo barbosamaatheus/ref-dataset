@@ -1,0 +1,11 @@
+org.apache.accumulo.core.util.TableDiskUsage,sink,241
+org.apache.accumulo.core.util.TableDiskUsage,sink,242
+org.apache.accumulo.core.util.TableDiskUsage,sink,243
+org.apache.accumulo.core.util.TableDiskUsage,sink,244
+org.apache.accumulo.core.util.TableDiskUsage,sink,245
+org.apache.accumulo.core.util.TableDiskUsage,sink,127
+org.apache.accumulo.core.util.TableDiskUsage,sink,239
+org.apache.accumulo.core.util.TableDiskUsage,source,242
+org.apache.accumulo.core.util.TableDiskUsage,source,244
+org.apache.accumulo.core.util.TableDiskUsage,source,245
+org.apache.accumulo.core.util.TableDiskUsage,source,127

@@ -1,0 +1,4 @@
+xdi2.core.io.writers.XDIJSONPARSEWriter,sink,80
+xdi2.core.io.writers.XDIJSONPARSEWriter,sink,87
+xdi2.core.io.writers.XDIJSONPARSEWriter,sink,60
+xdi2.core.io.writers.XDIJSONPARSEWriter,source,70

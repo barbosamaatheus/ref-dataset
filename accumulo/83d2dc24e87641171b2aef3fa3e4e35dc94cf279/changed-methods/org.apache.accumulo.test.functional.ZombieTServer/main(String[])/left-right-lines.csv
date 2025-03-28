@@ -1,0 +1,2 @@
+org.apache.accumulo.test.functional.ZombieTServer,sink,169
+org.apache.accumulo.test.functional.ZombieTServer,source,130

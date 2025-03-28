@@ -1,0 +1,11 @@
+org.apache.accumulo.server.tabletserver.Tablet,sink,3506
+org.apache.accumulo.server.tabletserver.Tablet,sink,3539
+org.apache.accumulo.server.tabletserver.Tablet,sink,3557
+org.apache.accumulo.server.tabletserver.Tablet,sink,3542
+org.apache.accumulo.server.tabletserver.Tablet,sink,3543
+org.apache.accumulo.server.tabletserver.Tablet,sink,3559
+org.apache.accumulo.server.tabletserver.Tablet,sink,3544
+org.apache.accumulo.server.tabletserver.Tablet,sink,3560
+org.apache.accumulo.server.tabletserver.Tablet,sink,3546
+org.apache.accumulo.server.tabletserver.Tablet,sink,3562
+org.apache.accumulo.server.tabletserver.Tablet,source,3566

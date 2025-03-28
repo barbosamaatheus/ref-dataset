@@ -1,0 +1,2 @@
+xdi2.messaging.target.interceptor.impl.authentication.signature.GraphSignatureAuthenticator,sink,73
+xdi2.messaging.target.interceptor.impl.authentication.signature.GraphSignatureAuthenticator,source,67

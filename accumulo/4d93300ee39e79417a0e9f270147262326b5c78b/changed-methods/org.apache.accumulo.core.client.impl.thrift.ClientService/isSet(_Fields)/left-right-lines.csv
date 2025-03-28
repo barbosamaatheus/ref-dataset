@@ -1,0 +1,6 @@
+org.apache.accumulo.core.client.impl.thrift.ClientService,sink,4544
+org.apache.accumulo.core.client.impl.thrift.ClientService,sink,12349
+org.apache.accumulo.core.client.impl.thrift.ClientService,sink,12350
+org.apache.accumulo.core.client.impl.thrift.ClientService,sink,4543
+org.apache.accumulo.core.client.impl.thrift.ClientService,source,22448
+org.apache.accumulo.core.client.impl.thrift.ClientService,source,22449
