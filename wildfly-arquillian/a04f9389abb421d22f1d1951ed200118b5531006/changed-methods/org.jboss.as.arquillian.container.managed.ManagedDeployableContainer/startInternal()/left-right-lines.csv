@@ -1,0 +1,9 @@
+org.jboss.as.arquillian.container.managed.ManagedDeployableContainer,sink,120
+org.jboss.as.arquillian.container.managed.ManagedDeployableContainer,sink,121
+org.jboss.as.arquillian.container.managed.ManagedDeployableContainer,sink,122
+org.jboss.as.arquillian.container.managed.ManagedDeployableContainer,sink,91
+org.jboss.as.arquillian.container.managed.ManagedDeployableContainer,sink,123
+org.jboss.as.arquillian.container.managed.ManagedDeployableContainer,sink,124
+org.jboss.as.arquillian.container.managed.ManagedDeployableContainer,sink,95
+org.jboss.as.arquillian.container.managed.ManagedDeployableContainer,source,115
+org.jboss.as.arquillian.container.managed.ManagedDeployableContainer,source,104
