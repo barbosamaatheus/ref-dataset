@@ -1,0 +1,2 @@
+jenkins.plugins.jclouds.compute.JCloudsComputer,sink,93
+jenkins.plugins.jclouds.compute.JCloudsComputer,source,88

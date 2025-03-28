@@ -1,0 +1,2 @@
+jenkins.plugins.jclouds.compute.JCloudsCloudTest,sink,36
+jenkins.plugins.jclouds.compute.JCloudsCloudTest,source,40
