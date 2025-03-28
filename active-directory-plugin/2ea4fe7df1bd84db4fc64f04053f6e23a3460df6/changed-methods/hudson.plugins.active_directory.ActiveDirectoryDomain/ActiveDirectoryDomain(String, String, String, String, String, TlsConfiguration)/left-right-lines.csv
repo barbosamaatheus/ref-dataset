@@ -1,0 +1,6 @@
+hudson.plugins.active_directory.ActiveDirectoryDomain,sink,153
+hudson.plugins.active_directory.ActiveDirectoryDomain,sink,157
+hudson.plugins.active_directory.ActiveDirectoryDomain,sink,158
+hudson.plugins.active_directory.ActiveDirectoryDomain,source,151
+hudson.plugins.active_directory.ActiveDirectoryDomain,source,152
+hudson.plugins.active_directory.ActiveDirectoryDomain,source,153
