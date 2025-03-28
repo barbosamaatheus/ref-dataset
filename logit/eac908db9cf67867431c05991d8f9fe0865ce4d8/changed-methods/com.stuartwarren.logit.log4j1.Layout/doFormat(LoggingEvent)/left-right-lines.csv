@@ -1,0 +1,6 @@
+com.stuartwarren.logit.log4j1.Layout,sink,80
+com.stuartwarren.logit.log4j1.Layout,sink,85
+com.stuartwarren.logit.log4j1.Layout,source,66
+com.stuartwarren.logit.log4j1.Layout,source,68
+com.stuartwarren.logit.log4j1.Layout,source,73
+com.stuartwarren.logit.log4j1.Layout,source,74

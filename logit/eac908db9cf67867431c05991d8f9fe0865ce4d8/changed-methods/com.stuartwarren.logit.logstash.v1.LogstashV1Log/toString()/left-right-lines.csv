@@ -1,0 +1,12 @@
+com.stuartwarren.logit.logstash.v1.LogstashV1Log,sink,80
+com.stuartwarren.logit.logstash.v1.LogstashV1Log,sink,81
+com.stuartwarren.logit.logstash.v1.LogstashV1Log,sink,88
+com.stuartwarren.logit.logstash.v1.LogstashV1Log,sink,89
+com.stuartwarren.logit.logstash.v1.LogstashV1Log,sink,90
+com.stuartwarren.logit.logstash.v1.LogstashV1Log,sink,75
+com.stuartwarren.logit.logstash.v1.LogstashV1Log,sink,91
+com.stuartwarren.logit.logstash.v1.LogstashV1Log,sink,76
+com.stuartwarren.logit.logstash.v1.LogstashV1Log,sink,77
+com.stuartwarren.logit.logstash.v1.LogstashV1Log,sink,78
+com.stuartwarren.logit.logstash.v1.LogstashV1Log,sink,79
+com.stuartwarren.logit.logstash.v1.LogstashV1Log,source,93
