@@ -1,0 +1,8 @@
+hudson.tasks.MailSenderTest,source,80
+hudson.tasks.MailSenderTest,source,85
+hudson.tasks.MailSenderTest,source,75
+hudson.tasks.MailSenderTest,sink,112
+hudson.tasks.MailSenderTest,sink,52
+hudson.tasks.MailSenderTest,sink,53
+hudson.tasks.MailSenderTest,sink,54
+hudson.tasks.MailSenderTest,sink,55
