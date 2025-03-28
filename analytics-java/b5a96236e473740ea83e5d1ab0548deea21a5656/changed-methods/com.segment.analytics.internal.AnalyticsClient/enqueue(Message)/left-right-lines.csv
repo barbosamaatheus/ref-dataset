@@ -1,0 +1,9 @@
+com.segment.analytics.internal.AnalyticsClient,sink,128
+com.segment.analytics.internal.AnalyticsClient,sink,114
+com.segment.analytics.internal.AnalyticsClient,sink,115
+com.segment.analytics.internal.AnalyticsClient,sink,116
+com.segment.analytics.internal.AnalyticsClient,sink,117
+com.segment.analytics.internal.AnalyticsClient,source,116
+com.segment.analytics.internal.AnalyticsClient,source,117
+com.segment.analytics.internal.AnalyticsClient,source,120
+com.segment.analytics.internal.AnalyticsClient,source,121
