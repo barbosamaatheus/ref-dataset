@@ -1,0 +1,6 @@
+jenkins.plugins.coverity.CheckConfig,source,106
+jenkins.plugins.coverity.CheckConfig,sink,128
+jenkins.plugins.coverity.CheckConfig,sink,129
+jenkins.plugins.coverity.CheckConfig,sink,146
+jenkins.plugins.coverity.CheckConfig,sink,147
+jenkins.plugins.coverity.CheckConfig,sink,127
