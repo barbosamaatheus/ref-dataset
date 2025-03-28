@@ -1,0 +1,11 @@
+io.jsonwebtoken.impl.DefaultJwtParser,sink,225
+io.jsonwebtoken.impl.DefaultJwtParser,sink,226
+io.jsonwebtoken.impl.DefaultJwtParser,sink,235
+io.jsonwebtoken.impl.DefaultJwtParser,source,369
+io.jsonwebtoken.impl.DefaultJwtParser,source,385
+io.jsonwebtoken.impl.DefaultJwtParser,source,402
+io.jsonwebtoken.impl.DefaultJwtParser,source,386
+io.jsonwebtoken.impl.DefaultJwtParser,source,379
+io.jsonwebtoken.impl.DefaultJwtParser,source,380
+io.jsonwebtoken.impl.DefaultJwtParser,source,396
+io.jsonwebtoken.impl.DefaultJwtParser,source,397

@@ -1,0 +1,15 @@
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,source,508
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,source,509
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,source,510
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,source,511
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,sink,514
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,sink,530
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,sink,531
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,sink,517
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,sink,534
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,sink,518
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,sink,535
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,sink,519
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,sink,520
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,sink,521
+com.github.lbroudoux.elasticsearch.river.s3.river.S3River,sink,511
