@@ -1,0 +1,2 @@
+hudson.plugins.mercurial.MercurialSCMSource2Test,sink,70
+hudson.plugins.mercurial.MercurialSCMSource2Test,source,101
