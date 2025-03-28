@@ -1,0 +1,5 @@
+org.jenkinsci.maven.plugins.hpi.TestInsertionMojo,sink,79
+org.jenkinsci.maven.plugins.hpi.TestInsertionMojo,source,112
+org.jenkinsci.maven.plugins.hpi.TestInsertionMojo,source,140
+org.jenkinsci.maven.plugins.hpi.TestInsertionMojo,source,141
+org.jenkinsci.maven.plugins.hpi.TestInsertionMojo,source,142
