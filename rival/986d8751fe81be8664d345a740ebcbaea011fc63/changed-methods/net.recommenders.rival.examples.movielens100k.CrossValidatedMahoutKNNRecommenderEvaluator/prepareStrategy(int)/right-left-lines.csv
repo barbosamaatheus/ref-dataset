@@ -1,0 +1,3 @@
+net.recommenders.rival.examples.movielens100k.CrossValidatedMahoutKNNRecommenderEvaluator,source,164
+net.recommenders.rival.examples.movielens100k.CrossValidatedMahoutKNNRecommenderEvaluator,sink,162
+net.recommenders.rival.examples.movielens100k.CrossValidatedMahoutKNNRecommenderEvaluator,sink,164

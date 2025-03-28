@@ -1,0 +1,6 @@
+spark.webserver.JettyHandler,source,52
+spark.webserver.JettyHandler,sink,53
+spark.webserver.JettyHandler,sink,56
+spark.webserver.JettyHandler,sink,57
+spark.webserver.JettyHandler,sink,58
+spark.webserver.JettyHandler,sink,59

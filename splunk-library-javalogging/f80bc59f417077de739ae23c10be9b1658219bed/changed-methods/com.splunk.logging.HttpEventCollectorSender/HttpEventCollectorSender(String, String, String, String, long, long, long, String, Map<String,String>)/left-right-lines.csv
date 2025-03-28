@@ -1,0 +1,13 @@
+com.splunk.logging.HttpEventCollectorSender,sink,151
+com.splunk.logging.HttpEventCollectorSender,source,113
+com.splunk.logging.HttpEventCollectorSender,source,114
+com.splunk.logging.HttpEventCollectorSender,source,116
+com.splunk.logging.HttpEventCollectorSender,source,117
+com.splunk.logging.HttpEventCollectorSender,source,118
+com.splunk.logging.HttpEventCollectorSender,source,119
+com.splunk.logging.HttpEventCollectorSender,source,120
+com.splunk.logging.HttpEventCollectorSender,source,121
+com.splunk.logging.HttpEventCollectorSender,source,122
+com.splunk.logging.HttpEventCollectorSender,source,108
+com.splunk.logging.HttpEventCollectorSender,source,109
+com.splunk.logging.HttpEventCollectorSender,source,110

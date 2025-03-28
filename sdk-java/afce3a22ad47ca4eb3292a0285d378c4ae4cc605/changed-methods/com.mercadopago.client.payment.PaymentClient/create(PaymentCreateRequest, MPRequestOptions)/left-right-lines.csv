@@ -1,0 +1,3 @@
+com.mercadopago.client.payment.PaymentClient,sink,104
+com.mercadopago.client.payment.PaymentClient,source,103
+com.mercadopago.client.payment.PaymentClient,source,104

@@ -1,0 +1,10 @@
+com.mercadopago.core.MPBase,sink,128
+com.mercadopago.core.MPBase,sink,160
+com.mercadopago.core.MPBase,sink,161
+com.mercadopago.core.MPBase,sink,158
+com.mercadopago.core.MPBase,sink,159
+com.mercadopago.core.MPBase,source,128
+com.mercadopago.core.MPBase,source,134
+com.mercadopago.core.MPBase,source,135
+com.mercadopago.core.MPBase,source,136
+com.mercadopago.core.MPBase,source,126

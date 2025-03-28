@@ -1,0 +1,10 @@
+com.splunk.logging.serialization.HecJsonSerializer,source,51
+com.splunk.logging.serialization.HecJsonSerializer,source,52
+com.splunk.logging.serialization.HecJsonSerializer,source,53
+com.splunk.logging.serialization.HecJsonSerializer,source,54
+com.splunk.logging.serialization.HecJsonSerializer,source,55
+com.splunk.logging.serialization.HecJsonSerializer,source,56
+com.splunk.logging.serialization.HecJsonSerializer,sink,56
+com.splunk.logging.serialization.HecJsonSerializer,sink,59
+com.splunk.logging.serialization.HecJsonSerializer,sink,60
+com.splunk.logging.serialization.HecJsonSerializer,sink,61

@@ -1,0 +1,5 @@
+spark.embeddedserver.jetty.EmbeddedJettyFactoryTest,source,36
+spark.embeddedserver.jetty.EmbeddedJettyFactoryTest,source,29
+spark.embeddedserver.jetty.EmbeddedJettyFactoryTest,sink,32
+spark.embeddedserver.jetty.EmbeddedJettyFactoryTest,sink,33
+spark.embeddedserver.jetty.EmbeddedJettyFactoryTest,sink,42

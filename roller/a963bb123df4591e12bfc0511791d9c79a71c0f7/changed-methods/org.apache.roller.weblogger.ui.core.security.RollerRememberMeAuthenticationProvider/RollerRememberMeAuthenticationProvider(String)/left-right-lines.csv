@@ -1,0 +1,5 @@
+org.apache.roller.weblogger.ui.core.security.RollerRememberMeAuthenticationProvider,sink,32
+org.apache.roller.weblogger.ui.core.security.RollerRememberMeAuthenticationProvider,sink,43
+org.apache.roller.weblogger.ui.core.security.RollerRememberMeAuthenticationProvider,source,32
+org.apache.roller.weblogger.ui.core.security.RollerRememberMeAuthenticationProvider,source,39
+org.apache.roller.weblogger.ui.core.security.RollerRememberMeAuthenticationProvider,source,43

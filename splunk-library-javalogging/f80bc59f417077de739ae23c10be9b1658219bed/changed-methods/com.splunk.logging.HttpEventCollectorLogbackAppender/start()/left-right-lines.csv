@@ -1,0 +1,6 @@
+com.splunk.logging.HttpEventCollectorLogbackAppender,sink,96
+com.splunk.logging.HttpEventCollectorLogbackAppender,sink,97
+com.splunk.logging.HttpEventCollectorLogbackAppender,sink,98
+com.splunk.logging.HttpEventCollectorLogbackAppender,sink,99
+com.splunk.logging.HttpEventCollectorLogbackAppender,sink,95
+com.splunk.logging.HttpEventCollectorLogbackAppender,source,80
