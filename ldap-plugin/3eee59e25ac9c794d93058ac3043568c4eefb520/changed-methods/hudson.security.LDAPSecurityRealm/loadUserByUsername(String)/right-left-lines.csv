@@ -1,0 +1,10 @@
+hudson.security.LDAPSecurityRealm,source,1014
+hudson.security.LDAPSecurityRealm,source,1062
+hudson.security.LDAPSecurityRealm,source,1015
+hudson.security.LDAPSecurityRealm,source,1016
+hudson.security.LDAPSecurityRealm,source,1017
+hudson.security.LDAPSecurityRealm,sink,1088
+hudson.security.LDAPSecurityRealm,sink,1083
+hudson.security.LDAPSecurityRealm,sink,1084
+hudson.security.LDAPSecurityRealm,sink,1085
+hudson.security.LDAPSecurityRealm,sink,1087

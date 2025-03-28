@@ -1,0 +1,13 @@
+org.assertj.assertions.generator.BaseAssertionGenerator,source,243
+org.assertj.assertions.generator.BaseAssertionGenerator,source,244
+org.assertj.assertions.generator.BaseAssertionGenerator,source,245
+org.assertj.assertions.generator.BaseAssertionGenerator,source,246
+org.assertj.assertions.generator.BaseAssertionGenerator,source,248
+org.assertj.assertions.generator.BaseAssertionGenerator,sink,256
+org.assertj.assertions.generator.BaseAssertionGenerator,sink,243
+org.assertj.assertions.generator.BaseAssertionGenerator,sink,244
+org.assertj.assertions.generator.BaseAssertionGenerator,sink,245
+org.assertj.assertions.generator.BaseAssertionGenerator,sink,246
+org.assertj.assertions.generator.BaseAssertionGenerator,sink,248
+org.assertj.assertions.generator.BaseAssertionGenerator,sink,252
+org.assertj.assertions.generator.BaseAssertionGenerator,sink,253
