@@ -1,0 +1,4 @@
+org.jongo.marshall.jackson.JacksonObjectIdUpdater,sink,49
+org.jongo.marshall.jackson.JacksonObjectIdUpdater,sink,51
+org.jongo.marshall.jackson.JacksonObjectIdUpdater,sink,52
+org.jongo.marshall.jackson.JacksonObjectIdUpdater,source,51

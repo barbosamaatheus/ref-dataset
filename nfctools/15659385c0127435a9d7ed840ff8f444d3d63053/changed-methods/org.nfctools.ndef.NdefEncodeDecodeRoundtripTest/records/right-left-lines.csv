@@ -1,0 +1,5 @@
+org.nfctools.ndef.NdefEncodeDecodeRoundtripTest,source,99
+org.nfctools.ndef.NdefEncodeDecodeRoundtripTest,source,100
+org.nfctools.ndef.NdefEncodeDecodeRoundtripTest,sink,99
+org.nfctools.ndef.NdefEncodeDecodeRoundtripTest,sink,100
+org.nfctools.ndef.NdefEncodeDecodeRoundtripTest,sink,102

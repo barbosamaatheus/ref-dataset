@@ -1,0 +1,4 @@
+com.cronutils.descriptor.TimeDescriptionStrategy,sink,256
+com.cronutils.descriptor.TimeDescriptionStrategy,sink,257
+com.cronutils.descriptor.TimeDescriptionStrategy,sink,259
+com.cronutils.descriptor.TimeDescriptionStrategy,source,240
